@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ilahb\\Desktop\\lab8\\lab8_log\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30AAF406-8CAC-449B-B46D-4018633A800F}|lab8_log\\lab8_log.vcxproj|C:\\Users\\ilahb\\Desktop\\lab8\\lab8_log\\lab8_log\\lab8_log.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{30AAF406-8CAC-449B-B46D-4018633A800F}|lab8_log\\lab8_log.vcxproj|solutionrelative:lab8_log\\lab8_log.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab8_log.cpp",
+              "DocumentMoniker": "C:\\Users\\ilahb\\Desktop\\lab8\\lab8_log\\lab8_log\\lab8_log.cpp",
+              "RelativeDocumentMoniker": "lab8_log\\lab8_log.cpp",
+              "ToolTip": "C:\\Users\\ilahb\\Desktop\\lab8\\lab8_log\\lab8_log\\lab8_log.cpp",
+              "RelativeToolTip": "lab8_log\\lab8_log.cpp",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAswEwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-18T07:40:40.666Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
